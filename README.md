@@ -1,6 +1,4 @@
 # ERPLAG-Compiler
-Compiler for Toy Language
-# ERPLAG-Compiler
 Compiler for the toy language ERPLAG as a part of Compiler Construction course at BITS Pilani
 
 Modules
